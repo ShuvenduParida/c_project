@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("i love my future wife");
+    printf("github");
     return 0;
 }
